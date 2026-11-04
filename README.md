@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oscar-kipkoech-1988926a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Oscar%20Bett-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/oscar-kipkoech-bett/">
+    <img src="https://img.shields.io/badge/LinkedIn-Oscar%20Kipkoech%20Bett-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:oscarkipkoech@gmail.com">
     <img src="https://img.shields.io/badge/Email-oscarkipkoech%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -95,7 +95,20 @@ I'm currently interested in building more with:
 
 ## Projects
 
-This section will be updated with selected projects soon.
+### AI agents
+
+- [langgraph-multiagent-test](https://github.com/oscarkipkoech/langgraph-multiagent-test): a LangGraph CLI chatbot that classifies each message as emotional or logical and routes it to a matching agent. Python, Anthropic API.
+- [LangGraph-basic-flow](https://github.com/oscarkipkoech/LangGraph-basic-flow): LangGraph learning examples in Jupyter notebooks, from a minimal graph to sequential and multi-input agent flows, plus a command-line agent bot.
+
+### Data and prediction
+
+- [bitcoin_predictor](https://github.com/oscarkipkoech/bitcoin_predictor): a paper-trading model that estimates the probability of BTC moving up or down in 5-minute windows and logs expected value. It places no orders. Python.
+
+### Web systems and integrations
+
+- [law-firm-case-dashboard](https://github.com/oscarkipkoech/law-firm-case-dashboard): a dashboard for a law firm to track lawyers' active cases and progress.
+- [Google-workspace](https://github.com/oscarkipkoech/Google-workspace): integrates Google Workspace account data and calendars. PHP.
+- [publication-rest-plugin](https://github.com/oscarkipkoech/publication-rest-plugin): a WordPress plugin that adds a REST endpoint to receive and process create, read, update and delete requests. PHP.
 
 <!--
 Example structure:
