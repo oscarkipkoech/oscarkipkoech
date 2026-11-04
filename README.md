@@ -97,6 +97,7 @@ I'm currently interested in building more with:
 
 ### AI agents
 
+- **Second Brain** (private, 2026 to now): an AI assistant I designed and built to run the day-to-day work behind my side projects and personal brand. It researches, plans, drafts content and remembers past decisions, working like a small digital team under my direction. Built on Claude Code with custom skills and agents.
 - [langgraph-multiagent-test](https://github.com/oscarkipkoech/langgraph-multiagent-test): a LangGraph CLI chatbot that classifies each message as emotional or logical and routes it to a matching agent. Python, Anthropic API.
 - [LangGraph-basic-flow](https://github.com/oscarkipkoech/LangGraph-basic-flow): LangGraph learning examples in Jupyter notebooks, from a minimal graph to sequential and multi-input agent flows, plus a command-line agent bot.
 
